@@ -1,5 +1,5 @@
-Theme name:    Balzac
-Description:   
-Author name:  	 Cole Townsend
-Author site:   http://coletownsend.com
+Theme name:    Julie Goncharov
+Description:   personal website
+Author name:   Julie Goncharov
+Author site:   http://julie-goncharov.com
 License:       MIT
